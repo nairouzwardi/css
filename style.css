@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #43bedd;
+}
+h3 {
+  color: yellow;
+}
+.main {
+  background-color: #eb146e;
+  min-height: 500px;
+}
+h4 {
+  color: aliceblue;
+}
+
+nav {
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+  background-color: #e61062;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  margin-right: 40px;
+}
+
+li {
+  margin-left: 10px;
+}
+
+a {
+  color: aliceblue;
+}
+h2 {
+  color: aliceblue;
+  margin-left: 70px;
+}
+.je {
+  background-color: grey;
+  display: flex;
+  justify-content: space-between;
+}
+.text{
+    margin-bottom: 70px;
+}
+#gitt:hover{
+    transform: rotate(360deg);
+    transition: 0.5s;
+}
+#linked:hover{
+    transform: rotate(360deg);
+    transition: 0.5s;
+
+
+}
+#codewars-512:hover{
+    transform: rotate(360deg) ;
+    transition: 0.5s;
+}
